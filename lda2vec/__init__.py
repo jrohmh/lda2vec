@@ -1,4 +1,4 @@
-import dirichlet_likelihood
+import lda2vec.dirichlet_likelihood
 import embed_mixture
 import tracking
 import preprocess
